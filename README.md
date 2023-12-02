@@ -1,5 +1,9 @@
 # TravelTide Data Segmentation Project
 
+![1698052698629](https://github.com/TheoDorokhoff/TravelTide-Customer-segmentation/assets/144614675/f5289c37-fc6d-4a89-8ccd-d49bf3cdf768)
+
+
+
 ## Summary
 
 This project focuses on designing and implementing a personalized rewards program to enhance customer retention on the TravelTide platform. The goal is to identify customer preferences for five proposed perks: Free hotel meal, Free checked bag, No cancellation fees, Exclusive discount, and 1 free night in the hotel with a flight. The analysis involves categorizing customers into segments aligned with these perks using advanced SQL queries, Fuzzy segmentation technique, and Tableau visualization.
