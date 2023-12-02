@@ -8,6 +8,10 @@ This project focuses on designing and implementing a personalized rewards progra
 
 Utilizing advanced SQL queries and Tableau, customers were segmented into five distinct groups based on proposed perks. The analysis considered various customer interactions, outliers were handled using IQR, and MinMax scaling was applied to avoid scale bias. Key metrics were derived from multiple sources, ensuring a comprehensive understanding.
 
+[Tableau workbook](https://public.tableau.com/views/TravelTideprojectworkbook/MealHunterindex?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Video presentation](https://youtu.be/Yq3DaToqfdk)
+
 ## Key Findings
 
 1.  **Free Hotel Meal Offer (Group size: 933 users):** Identified through the Meal Hunter Index, capturing behaviors of customers interested in extended stays and potential meal-related perks.
